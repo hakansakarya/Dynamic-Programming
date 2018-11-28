@@ -1,8 +1,3 @@
-__author__ = "Sait Hakan Sakarya"
-__email__ = "h.sakarya@student.maastrichtuniversity.nl"
-__student_id__ = "i6195139"
-__Assignment__ = "Practical Assignment 1 - Tower of Hanoi Value & Policy iteration"
-
 import random
 import numpy as np
 from copy import deepcopy
